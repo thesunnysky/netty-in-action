@@ -1,3 +1,4 @@
 */.idea
 */target
 */*.iml
+nettyfirst/src/main/resources/netty.properties
