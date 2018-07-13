@@ -53,5 +53,4 @@ public class DiscardServerHandler extends ChannelInboundHandlerAdapter {
         cause.printStackTrace();
         ctx.close();
     }
-
 }
