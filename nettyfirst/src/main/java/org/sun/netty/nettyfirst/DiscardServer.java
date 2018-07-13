@@ -1,4 +1,4 @@
-package org.sun.nettyfirst;
+package org.sun.netty.nettyfirst;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

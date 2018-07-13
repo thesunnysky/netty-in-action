@@ -1,4 +1,4 @@
-package org.sun.nettyfirst;
+package org.sun.netty.nettyfirst;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
